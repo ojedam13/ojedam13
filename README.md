@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h2> Hey there! I'm Martin Ojeda.</h2>
+<h2> Hey there! I'm Martin Ojeda.👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -34,11 +34,11 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🖥 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/martin-ojeda-00b459205/"></a>
-</p>
+  <a href="https://www.linkedin.com/in/martin-ojeda-00b459205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+
 
 ⭐️ From [ojedam13](https://github.com/ojedam13)
 
