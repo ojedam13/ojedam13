@@ -37,7 +37,7 @@
 <h3> 🖥 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/martin-ojeda-00b459205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in-Martin%20Ojeda-bluestyle=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/martin-ojeda-00b459205/"><img alt="LinkedIn" src="https://img.shields.io/badge/in-Martin%20Ojeda-blue"></a>
 
 
 ⭐️ From [ojedam13](https://github.com/ojedam13)
