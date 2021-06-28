@@ -31,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ojedam13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
@@ -41,10 +41,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/martin-ojeda-00b459205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/martin-ojeda-00b459205/"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/ojedam13)
+⭐️ From [ojedam13](https://github.com/ojedam13)
 
 <!--
 **ojedam13/ojedam13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
