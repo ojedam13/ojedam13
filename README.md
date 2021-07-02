@@ -40,6 +40,7 @@
   <a href="https://www.linkedin.com/in/martin-ojeda-00b459205/"><i class="fab fa-linkedin"></i></a>
 
 ⭐️ From [ojedam13](https://github.com/ojedam13)
+<script src="https://kit.fontawesome.com/86129dc939.js" crossorigin="anonymous"></script>
 
 <!--
 **ojedam13/ojedam13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
