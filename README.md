@@ -15,27 +15,35 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Less-3399cc?style=flat&logo=less&logoColor=000000">
+  
 <!--    -->
 - 💬 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   <img src="https://img.shields.io/badge/-Tailwind-3399cc?style=flat&logo=tailwind&logoColor=000000">
+  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Less-3399cc?style=flat&logo=less&logoColor=000000">
 <!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
 <!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
 <!--   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
 <!--   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> -->
 - 🛢 &nbsp;
-<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
-<!--   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) -->
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 <!--   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
 - ⚙️ &nbsp; <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
 <!-- - <img src="https://img.shields.io/badge/-Gulp-e6132f?style=flat&logo=gulp&logoColor=000000"> -->
 <!--   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) -->
+<!--   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
+<!-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white) -->
+<!-- ![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white) -->
+<!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
   
  - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
 <!--   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
 
 
