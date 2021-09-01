@@ -20,14 +20,14 @@
 <!--    -->
 - 💬 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  (https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind&logoColor=7dd7f5)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Tailwind-3399cc?style=flat&logo=tailwind&logoColor=000000">
+<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
+<!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
+<!--   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
+<!--   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> -->
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
+<!--   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) -->
 <!--   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
 - ⚙️ &nbsp; <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
 <!-- - <img src="https://img.shields.io/badge/-Gulp-e6132f?style=flat&logo=gulp&logoColor=000000"> -->
