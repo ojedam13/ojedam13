@@ -21,7 +21,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   <img src="https://img.shields.io/badge/-Tailwindcss-11153E?style=flat&logo=tailwindcss&logoColor=06F6EF">
   <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Less-3399cc?style=flat&logo=less&logoColor=000000">
+  <img src="https://img.shields.io/badge/-Less-131B7F?style=flat&logo=less&logoColor=ffffff">
 <!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
 <!--   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
 <!--   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
