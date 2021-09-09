@@ -27,7 +27,8 @@
 <!--   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
 <!--   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> -->
 - ⌨ &nbsp;
-  https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white
+   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+  
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
