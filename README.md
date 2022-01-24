@@ -4,8 +4,8 @@
 <h3> 👨About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at University of Buenos Aires.
-- 🌱 &nbsp; Learning more about JavaScript
+- 🎓 &nbsp; Studying programming technique at National Technological University.
+- 🌱 &nbsp; Learning more about JavaScript and React JS.
 <!-- - 💼 &nbsp; -->
 <!-- - ✍️ &nbsp;  -->
 
