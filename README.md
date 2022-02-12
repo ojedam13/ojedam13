@@ -4,8 +4,8 @@
 <h3> 👨About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying programming technique at National Technological University.
-- 🌱 &nbsp; Learning more about JavaScript and React JS.
+- 🎓 &nbsp; Studying programming technique at University Technician in Programming.
+- 🌱 &nbsp; Learning more about React JS and PHP.
 <!-- - 💼 &nbsp; -->
 <!-- - ✍️ &nbsp;  -->
 
