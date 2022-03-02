@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying programming technique at University Technician in Programming.
-- 🌱 &nbsp; Learning more about React JS and PHP.
+- 🌱 &nbsp; Learning more about React JS and PHP(Laravel).
 <!-- - 💼 &nbsp; -->
 <!-- - ✍️ &nbsp;  -->
 
