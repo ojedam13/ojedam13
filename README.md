@@ -49,9 +49,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
 <!--   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) -->
-🏭
-<https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue>
-<https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
+
+<!--https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue-->
+<!--https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white-->
 
 
 
