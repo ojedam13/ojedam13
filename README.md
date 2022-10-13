@@ -4,7 +4,7 @@
 <h3> 👨About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying programming technique at UTN
+- 🎓 &nbsp; Studying programming at UTN
 - 🌱 &nbsp; Learning more about React JS and PHP(Laravel).
 <!-- - 💼 &nbsp; -->
 <!-- - ✍️ &nbsp;  -->
